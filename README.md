@@ -11,7 +11,7 @@ This project involves analyzing restaurant data to answer key questions about re
 - [Libraries Used](#libraries-used)
 - [Project Structure](#project-structure)
 - [Steps in the Analysis](#steps-in-the-analysis)
-- 
+  
 ## Introduction
 
 The primary objective of this project is to analyze restaurant data from the Zomato dataset to draw insights about the restaurant industry. The analysis covers:
