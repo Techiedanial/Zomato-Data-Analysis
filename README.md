@@ -34,7 +34,7 @@ This project utilizes the following Python libraries:
 
   ## Project Structure
 
-- Zomato Data Analysis.ipynb
+- `Zomato Data Analysis.ipynb`:The Code and Output of the project.
 - `Zomato data.csv`: The dataset used for the analysis.
 
 ## Steps in the Analysis
