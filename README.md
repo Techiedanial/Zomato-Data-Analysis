@@ -23,7 +23,6 @@ The primary objective of this project is to analyze restaurant data from the Zom
 ## Dataset
 
 The dataset used for this analysis is `Zomato data.csv`, which includes information such as restaurant names, types, votes, ratings, online order availability, and approximate costs for two people.
-You can download the dataset.
 
 ## Libraries Used
 
